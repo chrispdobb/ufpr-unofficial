@@ -1,1 +1,1 @@
-#import "impl.typ": template, illustration, sheet
+#import "impl.typ": template
